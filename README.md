@@ -1,0 +1,1 @@
+# Desiese-detection-in-crops-using-image-processing--mini-
